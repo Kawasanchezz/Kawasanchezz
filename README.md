@@ -1,18 +1,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ffffff&section=header&reversal=false"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kaw%C3%A3+Sanchez" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kaw%C3%A3+Sanchez" alt="Typing SVG" />
 </div>
-**[Your tagline here — one line that summarizes your mission/skills.]*
+
+Full-Stack Developer at G4F | React | Vue | Angular | TypeScript | JavaScript | Next.js | Nuxt.js | Node.js | Express | MySQL | MongoDB  
+Passionate about building scalable web applications and creating seamless user experiences across both front-end and back-end.
 
 ---
 
-## About Me  
-[Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
-Keep it personable and approachable, but professional.]  
+## ✨ About Me
+I am a Full-Stack Developer with a passion for building modern, responsive, and efficient web applications. I specialize in React, Next.js, Node.js, and TypeScript, creating end-to-end solutions that are both robust and visually engaging. I enjoy solving complex problems, optimizing performance, and turning ideas into functional, user-friendly products. Exploring new technologies and continuously improving my skills keeps me motivated and inspired in every project I take on.
 
 ---
-## Tech & Tools  
+
+## 🛠️ Tech & Tools  
 <p>
   <img width="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -28,15 +30,12 @@ Keep it personable and approachable, but professional.]
   <img width="40" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
 
-<br>
-
 ---
 
-## My Projects  
+## 🚀 My Projects 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://giffiles.alphacoders.com/110/110940.gif" alt="Ladrão GIF" width="450"/>
 </div>
----
 
 ### [Project One](INSERT_PROJECT_ONE_LINK)  
 _[One-line description of the project.]_  
@@ -48,7 +47,7 @@ _[One-line description of the project.]_
 
 ---
 
-## Socials
+## 🤝 Connect
 <p>
   <a href="https://www.linkedin.com/in/kawagarcia" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black">
@@ -68,10 +67,10 @@ _[One-line description of the project.]_
 ---
 
 ## GitHub Stats 
-<div align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanchezz&theme=default&border_color=ffffff" height="150"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanchezz&theme=default&border_color=ffffff" height="150"/> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchezz&theme=default&utcOffset=-3&border_color=ffffff" height="150"/>
-</div>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ffffff&section=footer&reversal=false"/>
