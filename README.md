@@ -67,7 +67,7 @@ _[One-line description of the project.]_
 ---
 
 ## GitHub Stats 
-<p align="left">
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanchezz&theme=default&border_color=ffffff" height="150"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanchezz&theme=default&border_color=ffffff" height="150"/> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchezz&theme=default&utcOffset=-3&border_color=ffffff" height="150"/>
