@@ -35,7 +35,6 @@ Keep it personable and approachable, but professional.]
 ## My Projects  
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://giffiles.alphacoders.com/110/110940.gif" alt="Ladrão GIF" width="450"/>
-  <img src="https://i.gifer.com/2a0i.gif" alt="GIF 1" width="450"/>
 </div>
 ---
 
