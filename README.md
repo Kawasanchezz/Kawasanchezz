@@ -7,8 +7,6 @@
 Full-Stack Developer at G4F | React | Vue | Angular | TypeScript | JavaScript | Next.js | Nuxt.js | Node.js | Express | MySQL | MongoDB  
 Passionate about building scalable web applications and creating seamless user experiences across both front-end and back-end.
 
----
-
 ## ✨ About Me
 I am a Full-Stack Developer with a passion for building modern, responsive, and efficient web applications. I specialize in React, Next.js, Node.js, and TypeScript, creating end-to-end solutions that are both robust and visually engaging. I enjoy solving complex problems, optimizing performance, and turning ideas into functional, user-friendly products. Exploring new technologies and continuously improving my skills keeps me motivated and inspired in every project I take on.
 
@@ -25,7 +23,9 @@ I am a Full-Stack Developer with a passion for building modern, responsive, and 
   <img width="40" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="40" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img width="40" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img width="40" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img width="40" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
