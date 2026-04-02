@@ -35,10 +35,10 @@ I am a Full-Stack Developer with a passion for building modern, responsive, and 
 ## 🚀 My Projects 
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/main/Projeto .png" width="400"/>
+        <img src="https://github.com/user-attachments/assets/6408c96e-e753-4a9e-97ed-8abab340993b" width="400"/>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/8ea3b1f6-126a-410d-96c2-93a2bf58a109" width="400"/>
