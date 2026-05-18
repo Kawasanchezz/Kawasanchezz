@@ -54,9 +54,6 @@ I am a Full-Stack Developer with a passion for building modern, responsive, and 
   <a href="https://www.linkedin.com/in/kawagarcia" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black">
   </a>
-  <a href="https://github.com/sanchezz">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black">
-  </a>
   <a href="https://instagram.com/SEU_USER">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black">
   </a>
