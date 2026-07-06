@@ -32,36 +32,6 @@ I am a Full-Stack Developer with a passion for building modern, responsive, and 
 
 ---
 
-## 🚀 My Projects 
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/6408c96e-e753-4a9e-97ed-8abab340993b" width="400"/>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/8ea3b1f6-126a-410d-96c2-93a2bf58a109" width="400"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 🤝 Connect
-<p>
-  <a href="https://www.linkedin.com/in/kawagarcia" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black">
-  </a>
-  <a href="https://instagram.com/SEU_USER">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black">
-  </a>
-  <img alt="Views" src="https://img.shields.io/badge/Views-white?style=for-the-badge&logo=eye&logoColor=black">
-</p>
-
----
-
 ## GitHub Stats 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanchezz&theme=default&border_color=ffffff" height="150"/>
