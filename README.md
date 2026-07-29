@@ -1,6 +1,5 @@
-<div align="center">
-  <p align="center">
-  <img src="imagem/porsche-banner.jpg" alt="Banner" width="100%">
+<p align="center">
+  <img src="imagem/porsche-banner.jpg" alt="Banner" width="100%" style="max-height: 280px; object-fit: cover;">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kaw%C3%A3+Sanchez%3BFullStack+Developer%3BFront-End+%26+Back-End%3BCloud+%26+Machine+Learning" alt="Typing SVG" />
