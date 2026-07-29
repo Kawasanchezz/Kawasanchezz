@@ -37,11 +37,13 @@
 
 <br clear="right">
 
+
+
+---
+
 <div align="center">
 <h3>Technologies</h3>
 </div>
-
----
 
 <div align="center">
 
