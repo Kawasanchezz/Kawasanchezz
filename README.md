@@ -81,7 +81,7 @@
 
 <p align="center">
  <p align="center">
-  <img src="https://github.com/Kawasanchezz/Kawasanchezz/blob/output/github-contribution-grid-snake2.svg" alt="snake animation" />
+  <img src="https://github.com/Kawasanchezz/Kawasanchezz/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="snake animation" />
 </p>
 </p>
 
