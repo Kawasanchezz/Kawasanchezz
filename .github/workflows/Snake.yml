@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: Kawasanchezz
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#2563eb&color_dots=#000000,#0d419d,#1158c7,#388bfd,#58a6ff
+            dist/github-contribution-grid-snake.svg?color_snake=#2563eb&color_dots=#000000,#0d419d,#1158c7,#388bfd,#58a6ff&color_background=#ffffff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
