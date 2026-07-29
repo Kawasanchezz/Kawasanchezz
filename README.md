@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/creation_zoom" alt="banner" width="100%">
+  <img src="assets/assets/creation_zoom.gif" alt="banner" width="100%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kaw%C3%A3+Sanchez%3BFullStack+Developer%3BFront-End+%26+Back-End%3BCloud+%26+Machine+Learning" alt="Typing SVG" />
