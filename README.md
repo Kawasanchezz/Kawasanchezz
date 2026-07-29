@@ -82,7 +82,7 @@
 ---
 
 <p align="center" style="background-color:#ffffff; display:inline-block; padding:10px; border-radius:8px;">
-  <img src="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/output/github-contribution-grid-snake.svg?v=2" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/output/github-contribution-grid-snake.svg?v=3" alt="snake animation" />
 </p>
 
 </div>
