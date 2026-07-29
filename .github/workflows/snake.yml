@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: Kawasanchezz
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%232563eb&color_dots=%23000000,%230d419d,%231158c7,%23388bfd,%2358a6ff
+            dist/github-contribution-grid-snake.svg?color_snake=#2563eb&color_dots=#000000,#0d419d,#1158c7,#388bfd,#58a6ff
 
       - name: Push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v4
