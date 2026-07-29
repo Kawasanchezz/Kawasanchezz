@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Roda todos os dias às 03:00 UTC (meia-noite no horário de Brasília)
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake game from GitHub contribution grid
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Kawasanchezz
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#2563eb&color_dots=#000000,#0d419d,#1158c7,#388bfd,#58a6ff
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
