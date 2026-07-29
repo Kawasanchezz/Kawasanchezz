@@ -20,7 +20,6 @@
 ---
 
 <p align="left">
-  <img src="1000048504-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p><b>Junior Full-Stack Developer</b></p>
 
@@ -34,10 +33,6 @@
   <br><br>
   </div>
 </p>
-
-<br clear="right">
-
-
 
 ---
 
