@@ -30,7 +30,7 @@
 
 <p align="left">
   <p align="center">
-  <img src="assets/02" alt="banner" width="100%" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="assets/assets/download.png" alt="banner" width="100%" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <div>
   <p><b>Junior Full-Stack Developer</b></p>
