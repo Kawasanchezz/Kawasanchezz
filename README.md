@@ -1,4 +1,3 @@
-markdown
 <p align="center">
   <img src="assets/creation_zoom.gif" alt="banner" width="100%">
 </p>
@@ -30,7 +29,8 @@ markdown
 ---
 
 <p align="left">
-  <img src="1000048504-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <p align="center">
+  <img src="assets/02" alt="banner" width="100%" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <div>
   <p><b>Junior Full-Stack Developer</b></p>
