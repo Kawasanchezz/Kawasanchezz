@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="5195437d0e51d5dda8cdabf92fb308ec.webp.jpg" alt="Banner" width="100%">
+  <img src="imagem/porsche-banner.jpg" alt="Banner" width="100%">
 </p>
 
 <p align="center">
