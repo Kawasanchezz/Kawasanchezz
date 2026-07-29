@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagem/porsche-banner.jpg" alt="Banner" width="100%" style="max-height: 280px; object-fit: cover;">
+  <img src="imagem/porsche-banner.jpg" alt="Banner" width="100%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kaw%C3%A3+Sanchez%3BFullStack+Developer%3BFront-End+%26+Back-End%3BCloud+%26+Machine+Learning" alt="Typing SVG" />
@@ -29,6 +29,8 @@
 ---
 
 <p align="left">
+  <img src="1000048504-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <div>
   <div>
   <p><b>Junior Full-Stack Developer</b></p>
   I am a Junior Full-Stack Developer passionate about building modern, responsive, 
@@ -41,35 +43,36 @@
   <br><br>
   </div>
 </p>
+<br>
 
 ---
 
 <div align="center">
 <h3>Technologies</h3>
 </div>
+
 <div align="center">
-
-<img height="60" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-<img height="60" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-<img height="60" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-<img height="60" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-<img height="60" alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
-<img height="60" alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-<img height="60" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img height="60" alt="Android" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white" />
-<img height="60" alt="Mobile" src="https://img.shields.io/badge/Mobile-000000?style=for-the-badge&logo=mobile&logoColor=white" />
-<img height="60" alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img height="60" alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img height="60" alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img height="60" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img height="60" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img height="60" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img height="60" alt="Cloud" src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=icloud&logoColor=white" />
-<img height="60" alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img height="60" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
+<img height="80" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img height="80" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img height="80" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img height="80" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img height="80" alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+<img height="80" alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img height="80" alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img height="80" alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img height="80" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img height="80" alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img height="80" alt="Android" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white" />
+<img height="80" alt="Mobile" src="https://img.shields.io/badge/Mobile-000000?style=for-the-badge&logo=mobile&logoColor=white" />
+<img height="80" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img height="80" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img height="80" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img height="80" alt="Cloud" src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=icloud&logoColor=white" />
+<img height="80" alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img height="80" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <div/>
+<br>
+  
 ---
 
 <div align="center">
