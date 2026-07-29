@@ -2,27 +2,36 @@
   <p align="center">
   <img src="imagem/porsche-banner.jpg" alt="Banner" width="100%">
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kaw%C3%A3+Sanchez%3BFullStack+Developer%3BFront-End+%26+Back-End%3BCloud+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
-<!-- TODO: adicionar aqui os badges de LinkedIn, Gmail e Portfolio -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://SEU-PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+  </a>
+</p>
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Kawasanchezz&style=for-the-badge&color=000000"/>
 <img src="https://img.shields.io/github/commit-activity/y/Kawasanchezz/Kawasanchezz?style=for-the-badge&color=000000"/>
 <img src="https://img.shields.io/github/repo-size/Kawasanchezz/Kawasanchezz?style=for-the-badge&color=000000"/>
 </div>
 </div>
 
+<br>
+
 ---
 
 <p align="left">
   <div>
   <p><b>Junior Full-Stack Developer</b></p>
-
   I am a Junior Full-Stack Developer passionate about building modern, responsive, 
   and efficient web applications. I have hands-on experience with <b>React</b>, 
   <b>Next.js</b>, <b>Node.js</b>, and <b>TypeScript</b>, and I enjoy turning ideas 
@@ -39,34 +48,34 @@
 <div align="center">
 <h3>Technologies</h3>
 </div>
-
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-000000?style=for-the-badge&logo=.net&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-000000?style=for-the-badge&logo=pfSense&logoColor=white)
+<img height="60" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img height="60" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img height="60" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img height="60" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img height="60" alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+<img height="60" alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img height="60" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img height="60" alt="Android" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white" />
+<img height="60" alt="Mobile" src="https://img.shields.io/badge/Mobile-000000?style=for-the-badge&logo=mobile&logoColor=white" />
+<img height="60" alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img height="60" alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img height="60" alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img height="60" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img height="60" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img height="60" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img height="60" alt="Cloud" src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=icloud&logoColor=white" />
+<img height="60" alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img height="60" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 <h3>Statistics</h3>
 </div>
-
 </br>
 
 <p align="center">
@@ -79,5 +88,4 @@
 <p align="center" style="background-color:#ffffff; display:inline-block; padding:10px; border-radius:8px;">
   <img src="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/output/github-contribution-grid-snake.svg?v=4" alt="snake animation" />
 </p>
-
 </div>
