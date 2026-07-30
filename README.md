@@ -80,7 +80,8 @@
 </div>
 </br>
 
-<p align="center">
+<p align="right">
+  <img src="1000048506-removebg-preview.png" align="left" width="220" style="margin-right: 20px;">
   <img src="https://streak-stats.demolab.com?user=Kawasanchezz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kawasanchezz&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
 </p>
