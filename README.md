@@ -32,15 +32,14 @@
   <img src="assets/Esc-sem.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <div>
-  <p><b>Junior Full-Stack Developer</b></p>
-  I am a Junior Full-Stack Developer passionate about building modern, responsive, 
-  and efficient web applications. I have hands-on experience with <b>React</b>, 
-  <b>Next.js</b>, <b>Node.js</b>, and <b>TypeScript</b>, and I enjoy turning ideas 
-  into functional, user-friendly products from front-end to back-end.
-  I'm committed to writing clean, maintainable code and continuously deepening 
-  my skills through real-world projects and new technologies. I'm eager to grow 
-  as a developer and contribute to meaningful, well-crafted software.
-  <br><br>
+ <p><b>Junior Front-End Developer</b></p>
+      I am a Junior Front-End Developer passionate about building modern, responsive,
+      and accessible web interfaces. I have hands-on experience with <b>React</b>,
+      <b>Next.js</b>, and <b>TypeScript</b>, and I enjoy turning designs into
+      polished, user-friendly products with clean, well-structured code.
+      I'm continuously deepening my skills in UI/UX and web performance through
+      real-world projects and new technologies, and I'm eager to grow as a
+      developer and contribute to well-crafted software.
   </div>
 </p>
 <br>
