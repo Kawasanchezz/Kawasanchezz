@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/creation_zoom.gif" alt="banner" width="100%">
+  <img src="assets/Adão.gif" alt="banner" width="100%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kaw%C3%A3+Sanchez%3BFullStack+Developer%3BFront-End+%26+Back-End%3BCloud+%26+Machine+Learning" alt="Typing SVG" />
@@ -29,8 +29,7 @@
 ---
 
 <p align="left">
-  <p align="center">
-  <img src="assets/assets/download.png" alt="banner" width="100%" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="assent/esc.jpeg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <div>
   <p><b>Junior Full-Stack Developer</b></p>
