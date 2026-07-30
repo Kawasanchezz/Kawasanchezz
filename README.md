@@ -33,13 +33,11 @@
   <div>
   <div>
  <p><b>Junior Front-End Developer</b></p>
-      I am a Junior Front-End Developer passionate about building modern, responsive,
-      and accessible web interfaces. I have hands-on experience with <b>React</b>,
-      <b>Next.js</b>, and <b>TypeScript</b>, and I enjoy turning designs into
-      polished, user-friendly products with clean, well-structured code.
-      I'm continuously deepening my skills in UI/UX and web performance through
-      real-world projects and new technologies, and I'm eager to grow as a
-      developer and contribute to well-crafted software.
+
+I'm a **Junior Front-End Developer** passionate about creating modern, responsive, and accessible web applications. I specialize in building intuitive user interfaces using **React**, **Next.js**, and **TypeScript**, transforming ideas and designs into clean, scalable, and high-performance solutions.
+I enjoy writing maintainable code, improving user experiences, and following modern development best practices. I'm constantly expanding my knowledge in **UI/UX**, **web performance**, **software architecture**, and the latest front-end technologies through personal projects and continuous learning.
+Currently, I'm seeking opportunities where I can collaborate with talented teams, contribute to meaningful products, and continue growing as a software developer while delivering high-quality digital experiences.
+
   </div>
 </p>
 <br>
