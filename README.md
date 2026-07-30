@@ -29,7 +29,7 @@
 ---
 
 <p align="left">
-  <img src="assent/esc.jpeg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="assents/Esc.jpeg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <div>
   <p><b>Junior Full-Stack Developer</b></p>
