@@ -29,7 +29,7 @@
 ---
 
 <p align="left">
-  <img src="assets/Capacete-sem.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="assets/Esc-sem.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <div>
   <p><b>Junior Full-Stack Developer</b></p>
@@ -80,7 +80,7 @@
 </div>
 </br>
 
-<p align="right">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Kawasanchezz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kawasanchezz&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
 </p>
@@ -90,9 +90,3 @@
 <p align="center" style="background-color:#ffffff; display:inline-block; padding:10px; border-radius:8px;">
   <img src="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/output/github-contribution-grid-snake.svg?v=4" alt="snake animation" />
 </p>
-
-<p align="right">
-<img src="assets/Esc-sem.jpg" alt="banner" width="50%">
-<img src="assets/Pasta-sem.jpg" alt="banner" width="50%">
-
-</div>
