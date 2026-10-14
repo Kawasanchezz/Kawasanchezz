@@ -19,7 +19,6 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kawasanchezz&style=for-the-badge&color=000000"/>
   <img src="https://img.shields.io/github/commit-activity/y/Kawasanchezz/Kawasanchezz?style=for-the-badge&color=000000"/>
   <img src="https://img.shields.io/github/repo-size/Kawasanchezz/Kawasanchezz?style=for-the-badge&color=000000"/>
 </div>
@@ -83,7 +82,7 @@ I'm looking for opportunities to collaborate with talented teams, contribute to 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kawasanchezz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kawasanchezz&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kawasanchezz&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=5" height="170" />
 </p>
 
 ---
