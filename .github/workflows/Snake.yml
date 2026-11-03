@@ -2,36 +2,32 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Roda todos os dias às 03:00 UTC (meia-noite no horário de Brasília)
-    - cron: "0 3 * * *"
-  workflow_dispatch: {}
+    - cron: "0 0 * * *"   # todo dia à meia-noite (UTC)
+  workflow_dispatch:       # permite rodar manualmente na aba Actions
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake game from GitHub contribution grid
+      - name: Gerar a animação da cobra
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Kawasanchezz
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#333333&color_dots=#e8e8e8,#999999,#666666,#333333,#111111&color_background=#ffffff
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
