@@ -1,90 +1,116 @@
-<p align="center">
-  <img src="assets/Adão.gif" alt="banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+Kaw%C3%A3+Sanchez;Desenvolvedor+Full+Stack;Back-End+%26+Front-End" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kawagarcia" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kawagarcia71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-  </a>
-  <a href="https://kawasanchez.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfólio"/>
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Kawasanchezz/Kawasanchezz?style=for-the-badge&color=000000"/>
-  <img src="https://img.shields.io/github/repo-size/Kawasanchezz/Kawasanchezz?style=for-the-badge&color=000000"/>
-</div>
 
-<br>
+# &lt;/&gt; Kawã Garcia
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21C063&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Sistemas;Foco+em+Dados;SQL+%E2%80%A2+Python+%E2%80%A2+Machine+Learning)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawagarcia)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kawagarcia71@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://kawasanchez.vercel.app)
+
+</div>
 
 ---
 
-<img src="assets/Esc-sem.jpg" align="right" width="220" alt="Kawã Sanchez">
+## `> about_me`
 
-### Desenvolvedor Full Stack | Back-End (Node.js, Java) e Front-End (React, Next.js)
+```json
+{
+  "name": "Kawã Garcia",
+  "position": "Desenvolvedor de Sistemas com foco em Dados",
+  "location": "São Paulo, SP, BR",
+  "education": "Tecnólogo em ADS | Ciência da Computação (em andamento)",
+  "focus": "Análise de Dados, SQL, Python e Machine Learning",
+  "looking_for": "Analista de Dados | Desenvolvedor Back-End"
+}
+```
 
-Sou **Desenvolvedor Full Stack** com foco em **back-end**. Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e curso Bacharelado em Ciência da Computação na Universidade Cruzeiro do Sul.
+## `> featured_projects`
 
-No **back-end**, trabalho com **Node.js** e **Java** (nível intermediário), além de **Python (Flask)**, **C# com ASP.NET Core** e **SQL** (incluindo **SQL Server**), e uso **Docker**. No **front-end**, construo interfaces responsivas com **React**, **Next.js**, **TypeScript** e **Tailwind CSS**.
+### [ecommerce-rfm-recompra](https://github.com/Kawasanchezz/ecommerce-rfm-recompra)
 
-Tenho as certificações **Meta Back-End Developer**, **Meta Full Stack Developer**, **Microsoft Full-Stack Developer**, **IBM Machine Learning** e três certificações **AWS** (Solutions Architect, Cloud Support Associate e Cloud Technology Consultant).
+Pipeline de dados ponta a ponta: consultas SQL com funções de janela e coortes, segmentação RFM com K-Means e previsão de recompra em 90 dias. 13% dos clientes concentram 62% da receita, com ROC AUC de 0,93. A base é **sintética**, gerada pelo próprio projeto.
 
-Busco uma oportunidade em desenvolvimento back-end para trabalhar em equipe, escrever código limpo e continuar evoluindo tecnicamente.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-<br clear="right">
+### [Astra](https://github.com/Kawasanchezz/Astra) · [demo](https://astra-nine-omega.vercel.app)
+
+Chatbot educacional que ajuda estudantes a aprender programação, tirar dúvidas de código e encontrar bugs de forma didática, com chave de API em variáveis de ambiente.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## `> tech_stack`
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+#### Data & Machine Learning
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
+
+#### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Frameworks & Libs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## `> certifications`
+
+- **Dados e IA:** Data Analysis with SQL, Excel & Power BI (Microsoft) · Machine Learning (IBM) · AWS Generative AI and AI Agents with Amazon Bedrock · AI Agent Developer (Vanderbilt)
+- **Cloud (AWS):** Cloud Solutions Architect · Cloud Support Associate · Cloud Technology Consultant
+- **Desenvolvimento:** Meta Back-End Developer · Meta Full Stack Developer · Microsoft Full-Stack Developer
+
+## `> git_stats`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kawasanchezz&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 <div align="center">
-  <h3>Tecnologias</h3>
-</div>
 
-<div align="center">
-  <img height="80" alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img height="80" alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img height="80" alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img height="80" alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img height="80" alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img height="80" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img height="80" alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img height="80" alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img height="80" alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img height="80" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img height="80" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img height="80" alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img height="80" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img height="80" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img height="80" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img height="80" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img height="80" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img height="80" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+![Visitors](https://komarev.com/ghpvc/?username=Kawasanchezz&color=21C063&style=flat-square&label=Visitors)
 
-<br>
+</div>
 
 ---
 
 <div align="center">
-  <h3>Estatísticas</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobra percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kawasanchezz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kawasanchezz&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=5" height="170" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kawasanchezz/Kawasanchezz/output/github-contribution-grid-snake.svg?v=4" alt="snake animation" />
-</p>
