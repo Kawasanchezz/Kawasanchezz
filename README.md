@@ -20,7 +20,7 @@
   "position": "Desenvolvedor Back-end",
   "location": "São Paulo, SP, BR",
   "education": "Tecnólogo em ADS | Ciência da Computação (5º semestre)",
-  "languages": "Inglês avançado | Espanhol intermediário",
+  "languages": "Inglês intermediário | Espanhol intermediário",
   "focus": "Back-end, APIs REST, banco de dados e cloud",
   "looking_for": "Oportunidades em Desenvolvimento Back-end"
 }
